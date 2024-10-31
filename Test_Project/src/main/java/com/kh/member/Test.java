@@ -1,5 +1,7 @@
 package com.kh.member;
 
 public class Test {
-int test;
+	int test;
+	String slsls;
+	
 }
